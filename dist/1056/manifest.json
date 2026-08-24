@@ -5,7 +5,7 @@
   "mainClass": "com.iddaa.terminalapp.MainKt",
   "launcher": "bin/run.sh",
   "files": [
-    { "path": "bin/run.sh", "sha256": "24dfb01f5a42782194a68ce5ecb888aa16ba0d5816c1a2ee46a4f146caed4b55", "size": 1100, "executable": true },
+    { "path": "bin/run.sh", "sha256": "df97b2eb49281f57033ddbbc65d91ca24f5005fcf32e53f36b7c8254b88b4928", "size": 5751, "executable": true },
     { "path": "lib/animation-core-desktop-1.9.3.jar", "sha256": "76cf4d09b5312f9a9e46e80a270c76a7157a93819493feb7076f9c8c98610605", "size": 380643, "executable": false },
     { "path": "lib/animation-desktop-1.9.3.jar", "sha256": "bbc5e198f7b8159fa7170aff2efbc9c6124a6da9a7faab8889e922422a3b225b", "size": 344776, "executable": false },
     { "path": "lib/annotation-jvm-1.9.1.jar", "sha256": "1e343917ebf27ba96fe4dc52b1cad7fd32b738fbc6355bb6cd5b3b305d7212d0", "size": 60577, "executable": false },
